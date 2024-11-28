@@ -14,4 +14,4 @@ Download Icons Set ➤ [refind-Icon-Set-DarkGrey.zip](https://github.com/chris11
 <img src="Screenshot/screenshot_000.png" alt="Github Project" style="width:100%;">
 
 ### rEFIndPlus
-<img src="Screenshot/screenshot_0002.png" alt="Github Project" style="width:100%;">
+<img src="Screenshot/ScreenShot_002.png" alt="Github Project" style="width:100%;">
