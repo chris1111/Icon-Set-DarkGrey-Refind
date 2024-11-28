@@ -4,6 +4,7 @@
 - ### 87 Distro Icons DarkGrey Square
 
 View ➤ [Ison Set](https://github.com/chris1111/Icon-Set-DarkGrey-Refind/blob/main/View-Set.md)
+View ➤ [All Icons](https://github.com/chris1111/Icon-Set-DarkGrey-Refind/tree/main/icons)
 
 Configuration ➤ [Refind config](https://github.com/chris1111/Icon-Set-DarkGrey-Refind/blob/main/refind-Icon-Set-DarkGrey-Refind.conf)
 
