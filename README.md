@@ -10,4 +10,8 @@ Configuration ➤ [Refind config](https://github.com/chris1111/Icon-Set-DarkGrey
 
 Download Icons Set ➤ [refind-Icon-Set-DarkGrey.zip](https://github.com/chris1111/Icon-Set-DarkGrey-Refind/raw/refs/heads/main/refind-Icon-Set-DarkGrey.zip)
 
+### rEFInd
 <img src="Screenshot/screenshot_000.png" alt="Github Project" style="width:100%;">
+
+### rEFIndPlus
+<img src="Screenshot/screenshot_0002.png" alt="Github Project" style="width:100%;">
