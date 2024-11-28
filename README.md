@@ -1,6 +1,7 @@
 # Icon-Set-DarkGrey-Refind
-
-### 87 Distro Icons DarkGrey Square
+- Icon Set use with [rEFInd](https://www.rodsbooks.com/refind/) and  [rEFIndPlus](https://github.com/dakanji/RefindPlus)
+  
+- ### 87 Distro Icons DarkGrey Square
 
 View ➤ [Ison Set](https://github.com/chris1111/Icon-Set-DarkGrey-Refind/blob/main/View-Set.md)
 
