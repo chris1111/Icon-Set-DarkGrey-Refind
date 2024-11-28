@@ -6,4 +6,6 @@ View ➤ [Ison Set](https://github.com/chris1111/Icon-Set-DarkGrey-Refind/blob/m
 
 Configuration ➤ [Refind config](https://github.com/chris1111/Icon-Set-DarkGrey-Refind/blob/main/refind-Icon-Set-DarkGrey-Refind.conf)
 
+Download Icons Set ➤ [refind-Icon-Set-DarkGrey.zip](https://github.com/chris1111/Icon-Set-DarkGrey-Refind/raw/refs/heads/main/refind-Icon-Set-DarkGrey.zip)
+
 <img src="Screenshot/screenshot_000.png" alt="Github Project" style="width:100%;">
