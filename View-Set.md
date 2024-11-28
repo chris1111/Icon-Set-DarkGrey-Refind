@@ -80,4 +80,8 @@
 <img src="icons/os_zesty.png" alt="Github Project" style="width:20%;">
 <img src="icons/os_ventoy.png" alt="Github Project" style="width:20%;">
 
+### Banner
+<img src="icons/banner.png" alt="Github Project" style="width:80%;">
+<img src="icons/banner-plus.png" alt="Github Project" style="width:80%;">
+
 [Back On ➦ Top](https://github.com/chris1111/Icon-Set-DarkGrey-RefindPlus-GOPFix/blob/main/View-Set.md#view-set)
