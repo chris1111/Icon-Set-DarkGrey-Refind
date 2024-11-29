@@ -8,7 +8,7 @@ View ➤ [All Icons](https://github.com/chris1111/Icon-Set-DarkGrey-Refind/tree/
 
 Configuration ➤ [Refind config](https://github.com/chris1111/Icon-Set-DarkGrey-Refind/blob/main/refind-Icon-Set-DarkGrey-Refind.conf)
 
-Download Icons Set ➤ [refind-Icon-Set-DarkGrey.zip](https://github.com/chris1111/Icon-Set-DarkGrey-Refind/raw/refs/heads/main/refind-Icon-Set-DarkGrey.zip)
+Download Icons Set ➤ [Icon-Set-DarkGrey.zip](https://github.com/chris1111/Icon-Set-DarkGrey-Refind/raw/refs/heads/main/Icon-Set-DarkGrey.zip)
 
 ### rEFInd
 <img src="Screenshot/screenshot_000.png" alt="Github Project" style="width:100%;">
