@@ -51,7 +51,7 @@
 <img src="Icon-Set-DarkGrey/os_xubuntu.png" alt="Github Project" style="width:20%;"> 
 <img src="Icon-Set-DarkGrey/os_zorin.png" alt="Github Project" style="width:20%;"> 
 <img src="Icon-Set-DarkGrey/os_mac.png" alt="Github Project" style="width:20%;">
-<img src="Icon-Set-DarkGrey/os_aos.png" alt="Github Project" style="width:20%;">
+<img src="Icon-Set-DarkGrey/os_arcaos.png" alt="Github Project" style="width:20%;">
 <img src="Icon-Set-DarkGrey/os_artful.png" alt="Github Project" style="width:20%;">
 <img src="Icon-Set-DarkGrey/os_bionic.png" alt="Github Project" style="width:20%;">
 <img src="Icon-Set-DarkGrey/os_cachyos.png" alt="Github Project" style="width:20%;">
