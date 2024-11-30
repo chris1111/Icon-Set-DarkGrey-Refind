@@ -79,6 +79,7 @@
 <img src="Icon-Set-DarkGrey/os_xenial.png" alt="Github Project" style="width:20%;">
 <img src="Icon-Set-DarkGrey/os_zesty.png" alt="Github Project" style="width:20%;">
 <img src="Icon-Set-DarkGrey/os_ventoy.png" alt="Github Project" style="width:20%;">
+<img src="Icon-Set-DarkGrey/os_artix.png" alt="Github Project" style="width:20%;"><img src="Icon-Set-DarkGrey/os_nobara.png" alt="Github Project" style="width:20%;"><img src="Icon-Set-DarkGrey/os_sabaion.png" alt="Github Project" style="width:20%;"><img src="Icon-Set-DarkGrey/os_steamos.png" alt="Github Project" style="width:20%;"><img src="Icon-Set-DarkGrey/os_tails.png" alt="Github Project" style="width:20%;">
 
 ### Banner
 <img src="Icon-Set-DarkGrey/banner.png" alt="Github Project" style="width:80%;">
